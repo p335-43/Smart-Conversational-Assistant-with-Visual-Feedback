@@ -29,7 +29,7 @@ The **Smart Conversational Assistant with Visual Feedback** is a cutting-edge de
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/yourusername/smart-conversational-assistant.git
+   git clone https://github.com/p335-43/Smart-Conversational-Assistant-with-Visual-Feedback.git
    cd smart-conversational-assistant
    ```
 
