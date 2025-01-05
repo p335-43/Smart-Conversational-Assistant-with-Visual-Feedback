@@ -41,7 +41,7 @@ The **Smart Conversational Assistant with Visual Feedback** is a cutting-edge de
 
 3. **Run the Application:**  
    ```bash
-   python main.py
+   python Speech-to-Speech.py
    ```
 
 ---
